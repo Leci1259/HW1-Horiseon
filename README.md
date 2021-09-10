@@ -33,7 +33,7 @@ THEN I find a concise, descriptive title
 10. Look over code again for possible errors
 
 ## Website Preview
-[Website Image](C:\Users\shayn\Desktop\Coding\HW1-Horiseon\index.html)
+[Website Image](./assets/images/SS.png)
 
 ## Website Link
 https://leci1259.github.io/HW1-Horiseon/
